@@ -1,87 +1,58 @@
-[19:31:49] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:31:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:31:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:31:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:31:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[19:31:50] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[19:31:50] [ServerMain/INFO]: Reloading ResourceManager: Default
-[19:31:52] [Worker-Main-2/INFO]: Loaded 7 recipes
-[19:31:53] [Worker-Main-2/INFO]: Loaded 1141 advancements
-[19:31:57] [Server thread/INFO]: Starting minecraft server version 1.18
-[19:31:57] [Server thread/INFO]: Loading properties
-[19:31:57] [Server thread/INFO]: Default game type: SURVIVAL
-[19:31:57] [Server thread/INFO]: Generating keypair
-[19:31:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:31:57] [Server thread/INFO]: Using epoll channel type
-[19:31:58] [Server thread/INFO]: Preparing level "world"
-[19:31:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:32:03] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:12] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:21] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:24] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:25] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:27] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[19:32:29] [Worker-Main-2/INFO]: Preparing spawn area: 15%
-[19:32:29] [Server thread/INFO]: Time elapsed: 31658 ms
-[19:32:29] [Server thread/INFO]: Done (31.842s)! For help, type "help"
-[19:32:56] [User Authenticator #1/INFO]: UUID of player sukrire is 56fbf8b0-b6cb-46b7-a9d9-617eeaecf16e
-[19:32:57] [Server thread/INFO]: sukrire[/90.247.76.224:58177] logged in with entity id 252 at (10.245180407556594, 116.0, -7.7468616014255245)
-[19:32:57] [Server thread/INFO]: sukrire joined the game
-[19:33:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
-[19:33:46] [Server thread/INFO]: sukrire lost connection: Disconnected
-[19:33:47] [Server thread/INFO]: sukrire left the game
+[19:14:41] [ServerMain/INFO]: Building unoptimized datafixer
+[19:14:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:14:43] [ServerMain/INFO]: Loaded 7 recipes
+[19:14:44] [ServerMain/INFO]: Loaded 1179 advancements
+[19:14:45] [Server thread/INFO]: Starting minecraft server version 1.19
+[19:14:45] [Server thread/INFO]: Loading properties
+[19:14:45] [Server thread/INFO]: Default game type: SURVIVAL
+[19:14:45] [Server thread/INFO]: Generating keypair
+[19:14:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:14:45] [Server thread/INFO]: Using default channel type
+[19:14:46] [Server thread/INFO]: Preparing level "world"
+[19:14:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:14:48] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:14:48] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[19:14:48] [Worker-Main-17/INFO]: Preparing spawn area: 0%
+[19:14:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[19:14:48] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[19:14:48] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[19:14:49] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[19:14:49] [Server thread/INFO]: Time elapsed: 3496 ms
+[19:14:49] [Server thread/INFO]: Done (3.688s)! For help, type "help"
+[19:16:47] [User Authenticator #1/INFO]: UUID of player dashya is 1870c80d-3428-4704-b6d1-b6402156732c
+[19:16:47] [Server thread/INFO]: dashya[/192.168.1.74:50816] logged in with entity id 153 at (125.58827662534745, 92.0, -131.8924501437909)
+[19:16:47] [Server thread/INFO]: dashya joined the game
+[19:32:36] [Server thread/INFO]: dashya lost connection: Disconnected
+[19:32:36] [Server thread/INFO]: dashya left the game
+[19:40:12] [User Authenticator #2/INFO]: UUID of player sukrire is 56fbf8b0-b6cb-46b7-a9d9-617eeaecf16e
+[19:40:12] [Server thread/INFO]: sukrire[/127.0.0.1:59494] logged in with entity id 3092 at (129.5131685040552, 94.0, -209.49028944423404)
+[19:40:12] [Server thread/INFO]: sukrire joined the game
+[19:40:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@2b05a5f7[id=<null>,name=dashya,properties={},legacy=false] (/192.168.1.74:51270) lost connection: Disconnected
+[19:40:43] [User Authenticator #3/INFO]: UUID of player dashya is 1870c80d-3428-4704-b6d1-b6402156732c
+[19:40:43] [Server thread/INFO]: dashya[/192.168.1.74:51272] logged in with entity id 3396 at (147.91880653333584, 95.0, -157.7326644662343)
+[19:40:43] [Server thread/INFO]: dashya joined the game
+[19:40:48] [Server thread/INFO]: dashya lost connection: Disconnected
+[19:40:48] [Server thread/INFO]: dashya left the game
+[19:40:51] [User Authenticator #4/INFO]: UUID of player dashya is 1870c80d-3428-4704-b6d1-b6402156732c
+[19:40:51] [Server thread/INFO]: dashya[/192.168.1.74:51277] logged in with entity id 3414 at (147.91880653333584, 95.0, -157.7326644662343)
+[19:40:51] [Server thread/INFO]: dashya joined the game
+[20:07:12] [Server thread/INFO]: sukrire lost connection: Disconnected
+[20:07:12] [Server thread/INFO]: sukrire left the game
+[21:13:20] [Server thread/INFO]: dashya lost connection: Disconnected
+[21:13:20] [Server thread/INFO]: dashya left the game
+[21:15:17] [User Authenticator #5/INFO]: UUID of player dashya is 1870c80d-3428-4704-b6d1-b6402156732c
+[21:15:17] [Server thread/INFO]: dashya[/192.168.1.74:52092] logged in with entity id 18671 at (59.03820261787508, 95.0, -83.55837773617898)
+[21:15:17] [Server thread/INFO]: dashya joined the game
+[21:53:58] [Server thread/INFO]: dashya lost connection: Disconnected
+[21:53:58] [Server thread/INFO]: dashya left the game
+[22:12:07] [Server thread/INFO]: Stopping the server
+[22:12:07] [Server thread/INFO]: Stopping server
+[22:12:07] [Server thread/INFO]: Saving players
+[22:12:07] [Server thread/INFO]: Saving worlds
+[22:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[liisa is picky]'/minecraft:overworld
+[22:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[liisa is picky]'/minecraft:the_nether
+[22:12:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[liisa is picky]'/minecraft:the_end
+[22:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:12:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
